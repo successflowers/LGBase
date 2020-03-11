@@ -1,0 +1,1 @@
+../../../../../../LGCategory/LGCategory/Classes/NSObject/NSObject+AutoFitSize.h

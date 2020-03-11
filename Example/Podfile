@@ -1,0 +1,20 @@
+#use_frameworks!
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+
+
+platform :ios, '8.0'
+
+target 'LGBase_Example' do
+
+  pod 'LGBase', :path => '../'
+  pod 'LGUtils', :path => '../../../LGLib/LGUtils'
+  pod 'LGCategory', :path => '../../../LGLib/LGCategory'
+  pod 'AFNetworking'
+  pod 'YYKit'
+  pod 'SDWebImage'
+  pod 'MBProgressHUD'
+
+ 
+end
+
+

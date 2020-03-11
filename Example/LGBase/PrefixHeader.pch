@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  LGBase
+//
+//  Created by 张敬 on 2020/3/11.
+//  Copyright © 2020 张敬. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <LGUtils/CommonMacros.h>
+#import <LGCategory/NSString+md5.h>
+
+#endif /* PrefixHeader_pch */
